@@ -1,0 +1,23 @@
+.container{
+    background-color:rgb(47, 55, 120);
+    color: white;
+    display: flex;
+}
+
+.content{
+    max-width: 500px;
+    padding: 100px;
+}
+
+.sp{
+    font-weight: 100;
+    font-size: large;
+    padding-right: 20px;
+}
+
+
+.img{
+    height: 400px;
+    width: 400px;
+    padding: 100px;
+}

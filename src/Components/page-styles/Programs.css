@@ -1,0 +1,13 @@
+.h1{
+    text-align: center;
+    color: rgb(47, 55, 120);
+}
+.Container1{
+    color: rgb(47, 55, 120);
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 8px;
+}
+ 

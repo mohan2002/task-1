@@ -22,7 +22,7 @@ function MainNavigation() {
                         <Link to='/FAQS'>FAQS</Link>
                     </li>
                     <li>
-                        <button Style="background-color: rgb(8, 8, 88); color: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.25) 0px 4px 4px; border-radius: 1000px; width: 220px; height: 50px; text-align: center; margin: 5px; overflow: hidden; padding:10px;">Get in touch</button>
+                        <button Style="background-color:rgb(47, 55, 120); color: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.25) 0px 4px 4px; border-radius: 1000px; width: 220px; height: 50px; text-align: center; margin: 5px; overflow: hidden; padding:10px;">Get in touch</button>
                     </li>
                 </ul>
             </nav>

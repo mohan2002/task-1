@@ -4,7 +4,8 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color: rgb(245, 245, 245);
+    background-color: rgba(252, 246, 246, 0.747);
+  
   }
   
   .logo {
@@ -28,7 +29,10 @@
   .header a {
     text-decoration: none;
     font-size: 1.2rem;
-    color: #100880;
+    color:rgb(47, 55, 120);
+    display: block;
+    font-size:large;
+    font-weight: 700;
   }
   
   .header a:hover,
