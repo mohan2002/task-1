@@ -1,6 +1,7 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from 'react'
 import'./Lowerpart.css'
+import arrow from "../arrow.png"
 function Lowerpart() {
     return (
         <div className="overall">
@@ -34,7 +35,9 @@ function Lowerpart() {
             </div>
             <div className="sub">
                 <h1>subscribe</h1>
-                <input type="text"></input>
+                <div className="tick">
+                <input type="text" ></input><img src={arrow} className="txt"></img>
+                </div>
                 <p>Hello, we are Lift Media. Our goal is to translate the positive effects from revolutionizing how companies engage with their clients & their team.</p>
             </div>
         </div>
